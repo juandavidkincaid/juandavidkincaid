@@ -27,8 +27,18 @@ I design and build software end to end, and lead the teams that ship it. I care 
 - **PersonalSoft** (1 year): senior software developer
 - **DAISVAL Group** (3 years): full-stack developer and consultant
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=juandavidkincaid&custom_title=Contributions&hide=stars,commits,issues,contribs&hide_rank=true&show=contributions,prs_merged_percentage,prs_reviewed,all_time_contribs&show_icons=true&hide_border=true&bg_color=060b14&title_color=5488ec&text_color=eceef3&icon_color=5488ec" />
+  <img alt="GitHub contributions" src="https://github-stats-extended.vercel.app/api?username=juandavidkincaid&custom_title=Contributions&hide=stars,commits,issues,contribs&hide_rank=true&show=contributions,prs_merged_percentage,prs_reviewed,all_time_contribs&show_icons=true&hide_border=true&bg_color=f4f7fb&title_color=285cc2&text_color=161f30&icon_color=285cc2" />
+</picture>
+
 ## Stack
 
-TypeScript, React, Node.js, Python, Solidity, Ethereum and the EVM, AWS, GCP, Terraform.
+TypeScript, React, Node.js, Go, Python, Shell, Solidity, Ethereum and the EVM, AWS, GCP, Terraform.
 
 That is the stack I know best, not the limit of what I work in: I pick up whatever a team runs and ship in it. Working in English (native) and Spanish (native).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=juandavidkincaid&layout=compact&langs_count=6&hide_border=true&bg_color=060b14&title_color=5488ec&text_color=eceef3" />
+  <img alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=juandavidkincaid&layout=compact&langs_count=6&hide_border=true&bg_color=f4f7fb&title_color=285cc2&text_color=161f30" />
+</picture>
