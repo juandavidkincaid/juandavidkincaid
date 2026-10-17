@@ -29,6 +29,6 @@ I design and build software end to end, and lead the teams that ship it. I care 
 
 ## Stack
 
-TypeScript, React, Node.js, Solidity, Python, AWS, Terraform.
+TypeScript, React, Node.js, Python, Solidity, Ethereum and the EVM, AWS, GCP, Terraform.
 
 That is the stack I know best, not the limit of what I work in: I pick up whatever a team runs and ship in it. Working in English (native) and Spanish (native).
